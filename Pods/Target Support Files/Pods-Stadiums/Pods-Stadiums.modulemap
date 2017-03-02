@@ -1,0 +1,6 @@
+framework module Pods_Stadiums {
+  umbrella header "Pods-Stadiums-umbrella.h"
+
+  export *
+  module * { export * }
+}
